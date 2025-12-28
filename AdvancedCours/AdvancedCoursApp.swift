@@ -11,7 +11,7 @@ import SwiftUI
 struct AdvancedCoursApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ViewModifiersBootcamp()
         }
     }
 }
